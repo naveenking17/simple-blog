@@ -6,6 +6,22 @@
 
 simple blog system - <a href="http://www.fundsmaker.com">Naveens lab</a>
 
+</div><link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+
+<title>Write Your First Blog Post</title>
+<div class="jumbotron text-center">
+
+simple blog system - <a href="http://www.fundsmaker.com">Naveens lab</a>
+
+</div><link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+
+<title>Write Your First Blog Post</title>
+<div class="jumbotron text-center">
+
+simple blog system - <a href="http://www.fundsmaker.com">Naveens lab</a>
+
 </div>
 
 <div class="col-sm-12 text-left">
